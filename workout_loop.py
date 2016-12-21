@@ -17,7 +17,7 @@ workoutlist = [{
 "aerobic score": int(7)
 }
 ]
-# I want to loop through the workouts in the workoutlist dictonary and print the name of the workout score that fits the if statement. 
+# I want to loop through the workouts in the workoutlist dictonary and print the "name" of the workouts that fits the if statement. 
 #for workout in workoutlist:
   #      if (workoutlist['aerobic score']) > int(6):
    #         print(workoutlist['name'])
